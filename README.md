@@ -76,8 +76,10 @@ VolumeAdjust Class: Manages volume adjustment for audio playback.
 ## Dependencies
 SFML: Simple and Fast Multimedia Library for handling audio playback. 
 (Version 2.6.x is required (on the Github version we have include the lib in the Debug folder both in build folder for each platform you use))
+
 CMake: Build automation tool for generating platform-specific build files.
-NCures (For macOS)
+
+ncures (For macOS)
 
 
 ## Projct Contribution:
