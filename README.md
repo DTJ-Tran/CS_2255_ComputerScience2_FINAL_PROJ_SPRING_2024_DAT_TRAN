@@ -29,7 +29,6 @@ cd Debug
 Run the exe File:
 ```bash
 ./TeamProjectFinal (for MacOS)
-TeamProjectFinal.exe (for WindowOS)
 ```
 
 With the MacOS user (you should have install camke and using VS Studio Code)
