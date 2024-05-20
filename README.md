@@ -86,8 +86,11 @@ ncures (For macOS)
 ## Projct Contribution:
 
 Dat Tran Tien (Develope on MacOS platform - project leader)
+
 Nguyen Hai An (Develope on Window platform - project member)
+
 Nguyen Kim Tuan Cuong (Tester, Project Reporter - Support on Window platform - Project member)
+
 
 ## License
 
