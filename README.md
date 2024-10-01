@@ -31,7 +31,7 @@ Run the exe File:
 ./TeamProjectFinal (for MacOS)
 ```
 
-With the MacOS user (you should have install camke and using VS Studio Code)
+With the MacOS user (you should have install cmake and using VS Studio Code)
 
 ```bash
   git clone https://github.com/DTJ-Tran/CS_2255_ComputerScience2_FINAL_PROJ_SPRING_2024_DAT_TRAN
