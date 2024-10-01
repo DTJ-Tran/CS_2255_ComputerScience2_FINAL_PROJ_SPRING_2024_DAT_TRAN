@@ -84,11 +84,11 @@ ncures (For macOS)
 
 ## Projct Contribution:
 
-Dat Tran Tien (Develope on MacOS platform - project leader)
+Dat Tran Tien (Developer on MacOS platform - Project leader) - Email: trantiendat083@gmail.com 
 
-Nguyen Hai An (Develope on Window platform - project member)
+Nguyen Hai An (Developer on Window platform - Project member) - Email: an.nh227993@sis.hust.edu.vn
 
-Nguyen Kim Tuan Cuong (Tester, Project Reporter - Support on Window platform - Project member)
+Nguyen Kim Tuan Cuong (Tester & Developer on Window Platform, Project Reporter - Support on Window platform - Project member) - Email: tuancuong112504@gmail.com
 
 
 ## License
